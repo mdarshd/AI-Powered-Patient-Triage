@@ -18,7 +18,7 @@ An AI-powered healthcare application that enables real-time patient triage by an
 
 <img src="https://img.shields.io/badge/AWS-Lambda-Serverless-FF9900?style=for-the-badge&logo=amazonaws">
 
-<img src="https://img.shields.io/badge/Generative-AI-blueviolet?style=for-the-badge">
+
 
 <img src="https://img.shields.io/badge/Real--Time-Healthcare-success?style=for-the-badge">
 
